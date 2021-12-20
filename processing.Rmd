@@ -1,0 +1,71 @@
+---
+title: "processing"
+author: "Nabhan Kamarudzman"
+date: "12/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(dplyr)
+```
+
+## Aggregates
+
+## CENSUS 2017
+
+```{r}
+census2017 <- read.csv("finalcensus_2017.csv")
+census2017
+```
+
+```{r}
+
+final <- census2017 %>% group_by(Neighborhood, Borough) %>% select(Neighborhood, Borough, Population_2017, Per_Capita_Income_2017, Median_Income_2017, Mean_Travel_Time_Work_2017, Unemployment_Rate_2017) %>% summarise(Population_2017 = mean(Population_2017),
+           Per_Capita_Income_2017 = mean(Per_Capita_Income_2017),
+           Median_Income_2017 = mean(Median_Income_2017),
+           Mean_Travel_Time_Work_2017 = mean(Mean_Travel_Time_Work_2017),
+           Unemployment_Rate_2017 = mean(Unemployment_Rate_2017)
+           )
+
+final
+```
+
+```{r}
+final$id <- seq.int(nrow(final))
+final <- final %>% select(id, Neighborhood, Borough, Population_2017, Per_Capita_Income_2017, Median_Income_2017, Mean_Travel_Time_Work_2017, Unemployment_Rate_2017) %>% replace(is.na(.), 0)
+final
+```
+
+```{r}
+write.csv(final,"finalised_census2017.csv", row.names = FALSE)
+```
+
+
+## CENSUS 2020
+
+```{r}
+census2020 <- read.csv("finalcensus_2020.csv")
+df <- census2020 %>% group_by(Neighborhood, Borough) %>% select(Neighborhood, Borough, Population_2020, Per_Capita_Income_2020, Median_Income_2020, Mean_Travel_Time_Work_2020, Unemployment_Rate_2020) %>% summarise(Population_2020 = mean(Population_2020),
+           Per_Capita_Income_2020 = mean(Per_Capita_Income_2020),
+           Median_Income_2020 = mean(Median_Income_2020),
+           Mean_Travel_Time_Work_2020 = mean(Mean_Travel_Time_Work_2020),
+           Unemployment_Rate_2020 = mean(Unemployment_Rate_2020)
+           )
+
+df
+```
+
+
+```{r}
+df$id <- seq.int(nrow(df))
+df <- df %>% select(id, Neighborhood, Borough, Population_2020, Per_Capita_Income_2020, Median_Income_2020, Mean_Travel_Time_Work_2020, Unemployment_Rate_2020) %>% replace(is.na(.), 0)
+df
+```
+
+
+```{r}
+write.csv(df,"finalised_census2020.csv", row.names = FALSE)
+```
+
