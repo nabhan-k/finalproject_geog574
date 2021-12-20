@@ -1,0 +1,167 @@
+"name","borough","year","train_flow","passenger_flow"
+"Astor Pl","Manhattan",2017,1984,-216540
+"Astor Pl","Manhattan",2020,2186,-398473
+"Astoria Blvd","Queens",2017,1941,966828
+"Astoria Blvd","Queens",2020,2196,-99565
+"Bedford Park Blvd","Bronx",2017,1983,814803
+"Bedford Park Blvd","Bronx",2020,2196,322510
+"Bergen St","Brooklyn",2017,3969,1475727
+"Bergen St","Brooklyn",2020,4391,159159
+"Beverly Rd","Brooklyn",2017,1980,1010813
+"Beverly Rd","Brooklyn",2020,2180,465333
+"Bleecker St","Manhattan",2017,1983,2995401
+"Bleecker St","Manhattan",2020,2196,817533
+"Borough Hall","Brooklyn",2017,3955,3386718
+"Borough Hall","Brooklyn",2020,4384,625933
+"Botanic Garden","Brooklyn",2017,1985,-185898
+"Botanic Garden","Brooklyn",2020,2196,-119264
+"Bowery","Manhattan",2017,1963,252079
+"Bowery","Manhattan",2020,2173,-51960
+"Bowling Green","Manhattan",2017,3931,1070615
+"Bowling Green","Manhattan",2020,4371,-178507
+"Brighton Beach","Brooklyn",2017,1984,1287851
+"Brighton Beach","Brooklyn",2020,2194,416466
+"Broad Channel","Queens",2017,1936,55850
+"Broad Channel","Queens",2020,2140,18087
+"Broad St","Manhattan",2017,1983,1091447
+"Broad St","Manhattan",2020,2196,381705
+"Broadway","Brooklyn",2017,3867,1154213
+"Broadway","Brooklyn",2020,4385,21127
+"Broadway","Queens",2017,3867,1154213
+"Broadway","Queens",2020,4385,21127
+"Broadway-Lafayette St","Manhattan",2017,1985,-2070445
+"Broadway-Lafayette St","Manhattan",2020,2196,-1123091
+"Broadway Jct","Brooklyn",2017,1984,319185
+"Broadway Jct","Brooklyn",2020,2196,-102980
+"Bronx Park East","Bronx",2017,1922,428969
+"Bronx Park East","Bronx",2020,2117,157759
+"Canal St","Manhattan",2017,11814,5078291
+"Canal St","Manhattan",2020,13131,726106
+"Carroll St","Brooklyn",2017,1957,1803222
+"Carroll St","Brooklyn",2020,2168,517682
+"Chambers St","Manhattan",2017,9892,5967230
+"Chambers St","Manhattan",2020,10957,651823
+"Chauncey St","Brooklyn",2017,1984,560862
+"Chauncey St","Brooklyn",2020,2195,208782
+"Clark St","Brooklyn",2017,1779,693755
+"Clark St","Brooklyn",2020,2142,178013
+"Cleveland St","Brooklyn",2017,1929,14518
+"Cleveland St","Brooklyn",2020,2112,-134772
+"Cortelyou Rd","Brooklyn",2017,1971,1275034
+"Cortelyou Rd","Brooklyn",2020,2176,479382
+"Cortlandt St","Manhattan",2017,1985,1540673
+"Cortlandt St","Manhattan",2020,2196,405541
+"Court Sq","Queens",2017,3968,2302182
+"Court Sq","Queens",2020,4392,75912
+"Court St","Brooklyn",2017,1920,248557
+"Court St","Brooklyn",2020,2135,52500
+"Crescent St","Brooklyn",2017,1941,-130789
+"Crescent St","Brooklyn",2020,2121,-202107
+"Cypress Hills","Brooklyn",2017,1837,155273
+"Cypress Hills","Brooklyn",2020,2100,72090
+"Dyckman St","Manhattan",2017,3925,2846610
+"Dyckman St","Manhattan",2020,4342,1188063
+"East Broadway","Manhattan",2017,1983,2129169
+"East Broadway","Manhattan",2020,2194,522400
+"Essex St","Manhattan",2017,1985,969293
+"Essex St","Manhattan",2020,2196,60182
+"Fordham Rd","Bronx",2017,3966,4530940
+"Fordham Rd","Bronx",2020,4391,1580511
+"Franklin St","Manhattan",2017,1976,655615
+"Franklin St","Manhattan",2020,2196,148330
+"Freeman St","Bronx",2017,1985,261316
+"Freeman St","Bronx",2020,2196,-65154
+"Fresh Pond Rd","Queens",2017,1850,16661
+"Fresh Pond Rd","Queens",2020,2099,-68445
+"Fulton St","Brooklyn",2017,9856,4802810
+"Fulton St","Brooklyn",2020,10980,84236
+"Fulton St","Manhattan",2017,9856,4802810
+"Fulton St","Manhattan",2020,10980,84236
+"Grand St","Brooklyn",2017,3883,1563328
+"Grand St","Brooklyn",2020,4367,91696
+"Grand St","Manhattan",2017,3883,1563328
+"Grand St","Manhattan",2020,4367,91696
+"Gun Hill Rd","Bronx",2017,3710,981474
+"Gun Hill Rd","Bronx",2020,4271,-371772
+"Halsey St","Brooklyn",2017,3956,2117802
+"Halsey St","Brooklyn",2020,4383,654953
+"Hewes St","Brooklyn",2017,1984,397569
+"Hewes St","Brooklyn",2020,2196,18212
+"High St","Brooklyn",2017,1912,-277962
+"High St","Brooklyn",2020,2191,-219256
+"Houston St","Manhattan",2017,1985,1341477
+"Houston St","Manhattan",2020,2196,307273
+"Hoyt St","Brooklyn",2017,3707,325337
+"Hoyt St","Brooklyn",2020,4350,-8749
+"Jefferson St","Brooklyn",2017,1967,1801826
+"Jefferson St","Brooklyn",2020,2184,615070
+"Junction Blvd","Queens",2017,1981,1180773
+"Junction Blvd","Queens",2020,2193,108692
+"Junius St","Brooklyn",2017,1182,-38462
+"Junius St","Brooklyn",2020,2193,-162846
+"Kings Hwy","Brooklyn",2017,5808,1475620
+"Kings Hwy","Brooklyn",2020,6519,193386
+"Kingsbridge Rd","Bronx",2017,3960,1957507
+"Kingsbridge Rd","Bronx",2020,4385,338265
+"Lorimer St","Brooklyn",2017,3962,2134995
+"Lorimer St","Brooklyn",2020,4388,468425
+"Middletown Rd","Bronx",2017,1974,32541
+"Middletown Rd","Bronx",2020,2190,-26905
+"Morris Park","Bronx",2017,1714,30676
+"Morris Park","Bronx",2020,2029,-18406
+"Neck Rd","Brooklyn",2017,1981,915157
+"Neck Rd","Brooklyn",2020,2196,392450
+"Nevins St","Brooklyn",2017,1984,127972
+"Nevins St","Brooklyn",2020,2196,-206065
+"Northern Blvd","Queens",2017,1983,416340
+"Northern Blvd","Queens",2020,2192,73207
+"Ocean Pkwy","Brooklyn",2017,1984,465885
+"Ocean Pkwy","Brooklyn",2020,2196,184954
+"Park Pl","Brooklyn",2017,3882,114057
+"Park Pl","Brooklyn",2020,4362,-67592
+"Park Pl","Manhattan",2017,3882,114057
+"Park Pl","Manhattan",2020,4362,-67592
+"Parsons Blvd","Queens",2017,1981,172275
+"Parsons Blvd","Queens",2020,2196,-25249
+"Pelham Bay Park","Bronx",2017,1983,817056
+"Pelham Bay Park","Bronx",2020,2196,264306
+"President St","Brooklyn",2017,1977,-107014
+"President St","Brooklyn",2020,2186,-127498
+"Prince St","Manhattan",2017,1932,239615
+"Prince St","Manhattan",2020,2153,-199690
+"Prospect Park","Brooklyn",2017,1984,352578
+"Prospect Park","Brooklyn",2020,2196,-89494
+"Rector St","Manhattan",2017,3920,2144146
+"Rector St","Manhattan",2020,4370,499210
+"Rockaway Blvd","Queens",2017,1985,1553189
+"Rockaway Blvd","Queens",2020,2196,698974
+"Roosevelt Island","Manhattan",2017,1981,263039
+"Roosevelt Island","Manhattan",2020,2196,22518
+"Sheepshead Bay","Brooklyn",2017,1959,463744
+"Sheepshead Bay","Brooklyn",2020,2159,11201
+"Simpson St","Bronx",2017,1985,2069955
+"Simpson St","Bronx",2020,2196,738826
+"South Ferry","Manhattan",2017,1985,339747
+"South Ferry","Manhattan",2020,2196,238604
+"Spring St","Manhattan",2017,3956,2476634
+"Spring St","Manhattan",2020,4360,663457
+"Steinway St","Queens",2017,1984,1207843
+"Steinway St","Queens",2020,2195,100069
+"Sterling St","Brooklyn",2017,1976,690068
+"Sterling St","Brooklyn",2020,2177,168167
+"Sutphin Blvd","Queens",2017,1981,496778
+"Sutphin Blvd","Queens",2020,2196,129177
+"Union St","Brooklyn",2017,1984,344669
+"Union St","Brooklyn",2020,2189,41393
+"Wall St","Manhattan",2017,3953,1492148
+"Wall St","Manhattan",2020,4392,237910
+"Whitehall St","Manhattan",2017,1974,331272
+"Whitehall St","Manhattan",2020,2191,-90599
+"Winthrop St","Brooklyn",2017,1965,1578155
+"Winthrop St","Brooklyn",2020,2158,750694
+"Woodhaven Blvd","Queens",2017,3969,3709926
+"Woodhaven Blvd","Queens",2020,4387,753952
+"Woodlawn","Bronx",2017,1972,1627790
+"Woodlawn","Bronx",2020,2177,572142
+"York St","Brooklyn",2017,1939,1565949
+"York St","Brooklyn",2020,2118,363307
