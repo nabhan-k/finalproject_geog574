@@ -1,0 +1,232 @@
+"id","Neighborhood","Borough","Population_2020","Per_Capita_Income_2020","Median_Income_2020","Mean_Travel_Time_Work_2020","Unemployment_Rate_2020"
+1,"Allerton","The Bronx",28933,20801,41159,48.4,6.8
+2,"Alley Pond Park","Queens",39,17864,0,0,0
+3,"Annandale","Staten Island",33247,45979,113529,47.3,1.5
+4,"Astoria Park","Queens",0,0,0,0,0
+5,"Astoria-Long Island City","Queens",28270,40330.3333333333,68649,39.6666666666667,3.66666666666667
+6,"Auburndale","Queens",28518,34424,76077,44,2.5
+7,"Baisley Park","Queens",33358,27728,71598,49.2,4.9
+8,"Barren Island-Floyd Bennett Field","Brooklyn",8,0,2e+05,0,0
+9,"Bath Beach","Brooklyn",26443,29347,65925,49.2,3.2
+10,"Bay Ridge","Brooklyn",66749,43443,77154,45.8,3.2
+11,"Baychester","The Bronx",44547,25611,59816,48.8,5.8
+12,"Bayside","Queens",28426,41311,92136,44.6,2.2
+13,"Bedford Park","The Bronx",42898,19800,40028,46.3,7
+14,"Bedford-Stuyvesant","Brooklyn",67306,33107.5,56432,41.8,4.8
+15,"Bellerose","Queens",22120,33961,95119,44.5,2.9
+16,"Belmont","The Bronx",27443,14975,27936,43.8,9
+17,"Bensonhurst","Brooklyn",79197,25039,54156,45.5,4.1
+18,"Bloomfield-Chelsea-Travis","Staten Island",34750,37702,90626,46,2.8
+19,"Boerum Hill","Brooklyn",29403,76340,121623,32.9,5.5
+20,"Borough Park","Brooklyn",35046.5,17360.5,41740.5,38.05,2.7
+21,"Brighton Beach","Brooklyn",25281,27615,41399,45.6,2.7
+22,"Bronx Park","The Bronx",15,21600,54998,0,13.3
+23,"Brooklyn Heights","Brooklyn",20241,101610,138721,31.8,2.9
+24,"Brooklyn Navy Yard","Brooklyn",6,71034,118909,34.6,0
+25,"Brownsville","Brooklyn",38543,17922,20414,49.1,9.8
+26,"Bushwick","Brooklyn",46383,27162,55811.5,42.2,3.85
+27,"Calvary & Mount Zion Cemeteries","Queens",0,0,0,0,0
+28,"Calvert Vaux Park","Brooklyn",0,0,0,0,0
+29,"Cambria Heights","Queens",18050,37289,100431,50,3.7
+30,"Canarsie","Brooklyn",70482,29195,71740,50.3,3.3
+31,"Canarsie Park & Pier","Brooklyn",0,0,0,0,0
+32,"Carnegie Hill","Manhattan",46592,169260,176770,28.4,1.9
+33,"Carroll Gardens","Brooklyn",48462,63989,101077,36.8,5
+34,"Central Park","Manhattan",2,0,0,0,0
+35,"Charlestown-Richmond Valley","Staten Island",14145,44862,90889,44.7,2.1
+36,"Chelsea-Hudson Yards","Manhattan",56206,110534,117497,26.5,3.1
+37,"Chinatown","Manhattan",35453,23707,26902,31.9,3.5
+38,"Claremont Park","The Bronx",0,0,0,0,0
+39,"Claremont Village-Claremont (East)","The Bronx",18741,14411,26304,48.4,8.6
+40,"Clearview","Queens",18766,48475,85015,42.5,2.6
+41,"Clifton","Staten Island",11869,22061,38154,45.4,2.4
+42,"Clinton Hill","Brooklyn",23057,54612,91541,36.9,3.9
+43,"Co-op City","The Bronx",32269,30640,52647,51.1,3.4
+44,"College Point","Queens",22594,27258,62562,41.9,2.3
+45,"Concourse-Concourse Village","The Bronx",51227,18667,31614,42.3,5.6
+46,"Coney Island","Brooklyn",39838,23913,33879,49.3,4.4
+47,"Corona","Queens",42369.5,18549.5,56585.5,45.2,2.8
+48,"Country Club","The Bronx",22402,37084,71234,41.9,3.3
+49,"Crotona Park","The Bronx",0,0,0,0,0
+50,"Crotona Park East","The Bronx",21447,18064,28951,41.3,6
+51,"Crown Heights (North)","Brooklyn",69077,32799,50046,43,4.4
+52,"Crown Heights (South)","Brooklyn",40795,28602,52916,40.8,4.5
+53,"Cunningham Park","Queens",0,0,0,0,0
+54,"Cypress Hills","Brooklyn",31607,21723,54092,43.4,2.5
+55,"Douglastown-Little Neck","Queens",21644,47034,96972,44.4,2.4
+56,"Dyker Beach Park","Brooklyn",11,0,9999,0,100
+57,"Dyker Heights","Brooklyn",34621,29063,63321,42.4,3.3
+58,"East Elmhurst","Queens",19957,21893,55507,43.2,3.4
+59,"East Harlem","Manhattan",50435.5,30354,35059.5,35.6,4.9
+60,"East New York (North)","Brooklyn",30870,18878,39342,45.5,5.4
+61,"East New York-City Line","Brooklyn",33733,18588,36437,41.5,3
+62,"East New York-New Lots","Brooklyn",37711,21531,36948,48.4,5.6
+63,"East Village","Manhattan",63071,53667,61288,30.7,3
+64,"Elmhurst","Queens",79483,23791,55186,42.7,2.7
+65,"Ferry Point Park-St. Raymond Cemetery","The Bronx",0,0,0,0,0
+66,"Financial District","Manhattan",39642,111968,173609,26.3,2.7
+67,"Flatbush","Brooklyn",35358,28246.6666666667,56235,46.4333333333333,3.9
+68,"Flushing","Queens",38516,23636.5,42605.5,40.1,1.9
+69,"Flushing Meadows-Corona Park","Queens",0,0,0,0,0
+70,"Fordham","The Bronx",24089,13797,29398,44.7,10
+71,"Forest Hills","Queens",72924,49806,83787,44.9,2.7
+72,"Forest Park","Queens",0,0,0,0,0
+73,"Fort Green","Brooklyn",27213,51709,72662,36.9,4.9
+74,"Fort Hamilton","Brooklyn",847,33424,108940,32.1,0
+75,"Fort Totten","Queens",0,0,0,0,0
+76,"Fort Wadsworth","Staten Island",418,30550,77988,18.2,0
+77,"Fresh Kills","Staten Island",29.5,63174,144272,36.95,0
+78,"Glen Oaks-Floral Park-New Hyde Park","Queens",21292,41971,90682,38.7,2.4
+79,"Glendale","Queens",28391,33606,82372,41.3,2.8
+80,"Gramercy","Manhattan",24821,105747,129230,26.9,3.3
+81,"Gravesend-Sheepshead Bay","54556",35071,64428,48.5,3.7,0
+82,"Gravesend-Sheepshead Bay","Brooklyn",35945,28682,55156.3333333333,46.9333333333333,3.83333333333333
+83,"Great Kills","Staten Island",44545,41006,100021,47.5,2.8
+84,"Great Kills Park","Staten Island",0,0,0,0,0
+85,"Green-Wood Cemetery","Brooklyn",0,0,0,0,0
+86,"Greenpoint","Brooklyn",30972,55891,94418,37.9,2.7
+87,"Greenwich Village","Manhattan",29699,120560,144621,22.8,2.6
+88,"Hamilton Heights","Manhattan",44033,32156,54353,39.7,4.6
+89,"Harlem","Manhattan",54071,39102.5,53451,37.25,5.3
+90,"Hart Island","The Bronx",0,0,0,0,0
+91,"Hell's Kitchen","Manhattan",49587,84052,90421,28.5,3.9
+92,"High Bridge","The Bronx",23556,15958,30421,43.5,5.5
+93,"Highbridge Park","Manhattan",0,0,0,0,0
+94,"Highland Park-Cypress Hills Cemeteries (North)","Queens",17,36224,34998,0,0
+95,"Highland Park-Cypress Hills Cemeteries (South)","Brooklyn",0,0,0,0,0
+96,"Hoffman & Swinburne Islands","Staten Island",0,0,0,0,0
+97,"Hollis","Queens",18659,29486,72926,48.1,5.3
+98,"Holy Cross Cemetery","Brooklyn",16,25315,137498,0,0
+99,"Howard Beach","Queens",23867,40192,75648,42.2,2.6
+100,"Hunts Point","The Bronx",11322,14524,24335,42.2,5.2
+101,"Hutchinson Metro Center","The Bronx",546,9966,37498,36.1,0.7
+102,"Inwood","Manhattan",34867,30004,54682,43.4,3.4
+103,"Inwood Hill Park","Manhattan",22,0,0,0,0
+104,"Jackson Heights","Queens",76716,29914,60555,41.8,3.2
+105,"Jacob Riis Park-Fort Tilden-Breezy Point Tip","Queens",11,30427,49998,0,0
+106,"Jamaica","Queens",32234.6666666667,27899.3333333333,63066.6666666667,46.8,6.46666666666667
+107,"Jamaica Bay (East)","Queens",0,0,0,0,0
+108,"Jamaica Bay (West)","Brooklyn",0,0,0,0,0
+109,"Jamaica Hills-Briarwood","Queens",33031,29984,68814,44.6,4.5
+110,"John F. Kennedy International Airport","Queens",0,0,0,0,0
+111,"Kensington","Brooklyn",29348,32426,66376,43.4,4.4
+112,"Kew Gardens","Queens",18718,43586,71956,44.1,2.3
+113,"Kew Gardens Hills","Queens",26501,32397,73560,41.6,3.7
+114,"Kings Bridge","The Bronx",27687,22433,47332,47,4.5
+115,"Kings Bridge-Marble Hill","The Bronx",19568,24348,43265,44.4,4.7
+116,"Kissena Park","Queens",0,0,0,0,0
+117,"LaGuardia Airport","Queens",0,0,0,0,0
+118,"Laurelton","Queens",21528,36747,93948,50.4,3.7
+119,"Lincoln Terrace Park","Brooklyn",0,0,0,0,0
+120,"Long Island City-Hunters Point","Queens",17148,82093,141685,32.6,3.8
+121,"Longwood","The Bronx",29651,15615,27697,46.3,7.7
+122,"Lower East Side","Manhattan",39831,39933,43534,33.9,3.3
+123,"Madison","Brooklyn",32781,33796,72609,47.1,2.9
+124,"Manhattanville-West Harlem","Manhattan",19698,23897,37160,39.5,4.7
+125,"Mapleton-Flatlands","Brooklyn",56494,31511,78223,50.3,4.3
+126,"Mapleton-Midwood (West)","Brooklyn",25392,28933,60879,36.9,2.6
+127,"Marine Park-Mill Basin-Bergen Beach","Brooklyn",36335,42943,93877,46,2.1
+128,"Marine Park-Plumb Island","Brooklyn",0,0,0,0,0
+129,"Mariners Harbor","Staten Island",25020,25790,70423,44.5,2.5
+130,"Maspeth","Queens",34167,33997,76256,42.7,3.4
+131,"McGuire Fields","Brooklyn",0,0,0,0,0
+132,"Melrose","The Bronx",31712,17937,28586,43.4,6
+133,"Middle Village","Queens",28510,37473,80757,43.8,2.8
+134,"Middle Village Cemetery","Queens",0,0,0,0,0
+135,"Midland Beach","Staten Island",22689,36543,83058,44.9,2.7
+136,"Midtown","Manhattan",26732,135571.333333333,146170,25.0333333333333,2.36666666666667
+137,"Midwood","Brooklyn",36954,31200,59171,40.8,3.4
+138,"Miller Field","Staten Island",22,32710,83115,42.9,2.4
+139,"Montefiore Cemetery","Queens",0,0,0,0,0
+140,"Morningside Heights","Manhattan",33815,42141,66835,29.4,3.2
+141,"Morris Park","The Bronx",18531,33916,67705,39.9,4.9
+142,"Morrisania","The Bronx",25670,17325,27700,43.7,7
+143,"Mott Haven","The Bronx",39378,15121,22996,42.2,7
+144,"Mount Eden-Claremont (West)","The Bronx",37517,15811,32602,43.4,7.1
+145,"Mount Hebron & Cedar Grove Cemeteries","Queens",0,0,0,0,0
+146,"Mount Hope","The Bronx",35447,16385,34778,43.4,6.3
+147,"Mount Olivet & All Faiths Cemeteries","Queens",14,0,67498,0,0
+148,"Murray Hill","Manhattan",51926,90341,118411,26.8,2.3
+149,"Murray Hill","Queens",45802,27779,53453,42,2.3
+150,"New Brighton","Staten Island",21267,33917.5,64020.5,45.25,2.55
+151,"North & South Brother Islands","The Bronx",0,0,0,0,0
+152,"Norwood","The Bronx",31191,19049,36111,46.2,6.9
+153,"Oakland Gardens-Hollis Hills","Queens",20578,41407,81726,46.3,3.2
+154,"Oakwood","Staten Island",17150,37998,78795,45.3,2.9
+155,"Ocean Hill","Brooklyn",28351,23134,41448,44.7,3.3
+156,"Ozone Park","Queens",19413,28023,79286,47.5,4.2
+157,"Ozone Park (North)","Queens",20195,25051,70534,47.7,4.8
+158,"Park Slope","Brooklyn",47113,83601,148057,39.5,2.7
+159,"Parkchester","The Bronx",24791,28246,54961,51.6,5.3
+160,"Pelham Bay Park","The Bronx",13,0,14998,0,0
+161,"Pelham Gardens","The Bronx",24444,29950,75391,43.5,3.3
+162,"Pelham Parkway-Van Nest","The Bronx",23419,25373,53342,46.7,6
+163,"Pomonok-Electchester-Hillcrest","Queens",29329,27393,59139,44.8,7.3
+164,"Port Richmond","Staten Island",14228,24381,58074,41.4,2.8
+165,"Prospect Heights","Brooklyn",18746,68807,114854,37.1,3.3
+166,"Prospect Lefferts Gardens-Wingate","Brooklyn",38927,34667,57636,44.7,5
+167,"Prospect Park","Brooklyn",0,0,0,0,0
+168,"Queens Village","Queens",45712,29007,82966,49.3,5.8
+169,"Queensboro Hill","Queens",16632,25889,58914,45.9,2.5
+170,"Queensbridge-Ravenswood-Dutch Kills","Queens",21207,31188,41712,40.7,4.9
+171,"Randall's Island","Manhattan",1961,5870,0,0,7.9
+172,"Rego Park","Queens",23888,39106,68228,43.7,2.2
+173,"Ridgewood","Queens",58005,28903,72062,43.3,2.9
+174,"Rikers Island","Queens",6864,3341,0,0,0
+175,"Rockaway Beach-Arverne-Edgemere","Queens",31766,25416,47435,54.1,5.5
+176,"Rockaway Community Park","Queens",0,0,0,0,0
+177,"Rosebank","Staten Island",18520,28232,57805,48.7,4.9
+178,"Rosedale","Queens",22152,32393,90502,52.3,4.2
+179,"Rossville","Staten Island",24319,38083,94719,47.1,3.3
+180,"Shirley Chisholm State Park","Brooklyn",0,0,0,0,0
+181,"Snug Harbor","Staten Island",3,31120,39571,44.8,0
+182,"Soho","Manhattan",20452,98950,99098,26.5,1.8
+183,"Soundview","The Bronx",40134,19904,37156.5,45.6,5.6
+184,"Soundview Park","The Bronx",123,59542,2e+05,0,0
+185,"South Beach","Staten Island",29089,34406,77016,45.7,3.1
+186,"South Ozone Park","Queens",66787,27227,79851,47.8,4.7
+187,"Spring Creek Park","Queens",5,51304,108121,38.2,0
+188,"Spring Creek-Starrett City","Brooklyn",12260,22383,31904,57,3.1
+189,"Springfield Gardens","Queens",20881.5,29743,75191.5,50.1,3.2
+190,"Spuyten Duyvil","The Bronx",37848,55461,94684,46.8,3
+191,"St. Albans","Queens",42097,31195,81747,48.6,4.2
+192,"St. John Cemetery","Queens",0,0,0,0,0
+193,"St. Michael's Cemetery","Queens",0,0,0,0,0
+194,"Steinway","Queens",40668,42902,78012,41.8,2.4
+195,"Stuyvesant Town-Peter Cooper Village","Manhattan",19710,77973,118934,31.3,2
+196,"Sunny Side","Queens",42495,35702,63699,38.2,2.7
+197,"Sunnyside Yards (North)","Queens",50,94137,174998,0,0
+198,"Sunnyside Yards (South)","Queens",0,0,0,0,0
+199,"Sunset Park","Brooklyn",38526,23890.5,55487.5,43.25,3.8
+200,"The Battery-Governors Island-Ellis Island-Liberty Island","Manhattan",0,0,0,0,0
+201,"The Evergreens Cemetery","Brooklyn",0,0,0,0,0
+202,"The Rockaways","Queens",32556.5,36604,71451.5,47.75,4
+203,"Throgs Neck-Schuylerville","The Bronx",37413,33388,68772,41.4,4
+204,"Todt Hill","Staten Island",24999,43200,103214,41.6,2.4
+205,"Tremont","The Bronx",22833,15450,24754,46.9,6.5
+206,"Tribeca","Manhattan",18305,148960,2e+05,25.8,2.8
+207,"Union Port","The Bronx",31135,21919,44183,47.4,4
+208,"United Nations","Manhattan",0,0,0,0,0
+209,"University Heights","The Bronx",41078,14980,26562,45.1,7.2
+210,"University Heights (North)-Fordham","The Bronx",35016,17122,36469,46.1,8.3
+211,"Upper East Side","Manhattan",69626,96806.5,117439.5,32.1,1.85
+212,"Upper West Side (Central)","Manhattan",81983,122095,126128,32.6,2.6
+213,"Upper West Side-Lincoln Square","Manhattan",55559,128484,137475,29.4,2.5
+214,"Upper West Side-Manhattan Valley","Manhattan",45148,67909,85664,36.1,3.7
+215,"Utopia","Queens",19144,35292,76325,46.8,3.7
+216,"Van Cortlandt Park","The Bronx",0,0,0,0,0
+217,"Wakefield-Williamsbridge","The Bronx",39213,29104,63717,47.7,4.6
+218,"Washington Heights (North)","Manhattan",67942,30935,60343,42.3,5.9
+219,"Washington Heights (South)","Manhattan",72159,25691,52129,40.2,5.5
+220,"West Farms","The Bronx",14276,16185,24006,42.7,9.4
+221,"West Village","Manhattan",30426,127619,136043,26,3.7
+222,"Westchester Square","The Bronx",11887,20174,43859,45.7,5.9
+223,"Westerleigh-Castleton","Staten Island",25396,42913,100833,40.1,2.4
+224,"Whitestone","Queens",23142,39560,87700,42,3.4
+225,"Williams Bridge","The Bronx",47686,22399,46002,46.1,7.1
+226,"Williamsburg","Brooklyn",39464.3333333333,38112.3333333333,63892.3333333333,31.2333333333333,3.5
+227,"Windsor Terrace-South Slope","Brooklyn",19205,63816,114733,41.9,2.7
+228,"Woodhaven-Richmond Hill","Queens",27041.6666666667,25367,72161.3333333333,47.9,3.9
+229,"Woodlawn Cemetery","The Bronx",0,0,0,0,0
+230,"Woodside","Queens",39037,29319,62029,37.5,2.8
+231,"Yankee Stadium-Macombs Dam Park","The Bronx",0,0,0,0,0
